@@ -1,3 +1,4 @@
 1. Arrays and Hashing
 2. Two Pointers
-3. Stacks
+3. Sliding Window
+
